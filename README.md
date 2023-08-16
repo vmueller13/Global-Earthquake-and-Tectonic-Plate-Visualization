@@ -1,4 +1,4 @@
-# Module 15 Challenge: Leaflet #
+# Leaflet #
 
 
 <ins>Project Overview</ins>
